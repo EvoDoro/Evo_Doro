@@ -3,18 +3,18 @@
   font-family: Helvetica, Arial, sans-serif;
 }
 body {
-    background-color:Black
+    background-color:DimGrey
 }
 
 h1 {
-  color: SeaGreen;
+  color: DarkCyan;
 }
 
 
 p,
 li {
   font-size: 18px;
-  color:White
+  color:MediumAquaMarine
 }
 
 
